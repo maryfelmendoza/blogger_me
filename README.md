@@ -4,16 +4,22 @@
 
 # Blogger
 
-> This is a repo for the templates that it will be useful in our daily basis as developer to keep the things in a professional way.
+In this project I created a simple blog system and learn the basics of Ruby on Rails including:
 
+Models, Views, and Controllers (MVC)
+Data Structures & Relationships
+Routing
+Migrations
+Views with forms, partials, and helpers
+RESTful design
+Adding gems for extra features
 
-Additional description about the project and its features.
 
 ## Built With
 
 - Languages: HTML, CSS, Ruby and JavaScript.
-- Framework: Bootstrap
-- Tecnologies: RoR
+- Framework: RoR
+
 
 ## Live Demo
 
@@ -22,23 +28,31 @@ Additional description about the project and its features.
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
+We will be using the Ruby on Rails Tutorial by Michael Hartl throughout this course. It is a complete, step-by-step walkthrough of building and testing a Twitter-like microblogging application. It covers a lot of material but so does this course, so we'll be spacing out the chapters along the way to go with the appropriate lesson material.
 
+Though this tutorial is a major common theme across all the coming lessons and serves to tie them together into one major project, we'll also be building plenty of independent projects along the way.
 
-To get a local copy up and running follow these simple example steps.
+In this chapter, you'll build a simple scaffolded app on Rails. It won't be as complicated as the Blogger Tutorial was and is really just to make sure your system is all set up and your brain is switched into Rails mode.
 
-### Prerequisites
+[Tutorial](http://tutorials.jumpstartlab.com/projects/blogger.html#blogger-2)
+
 
 ### Setup
 
+Setting up your environment can be difficult when you’re first starting with Ruby. We want to get the following installed:
+
+- Git
+- Ruby 2.2
+- A text editor
+
+
 ### Install
 
-### Usage
+The installation instructions are in the following link by platform: Mac, Linux, and Windows.
 
-### Run tests
+[Installation](http://tutorials.jumpstartlab.com/topics/environment/environment.html)
 
-### Deployment
+
 
 
 
@@ -57,15 +71,11 @@ Contributions, issues and feature requests are welcome!
 
 Feel free to check the [issues page](issues/).
 
+
 ## Show your support
 
 Give a ⭐️ if you like this project!
 
-## Acknowledgments
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
 
 ## 📝 License
 
